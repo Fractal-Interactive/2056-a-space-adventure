@@ -1,2 +1,2 @@
 # 2056: A Space Adventure
-An open source game, built primarily in Java.
+An open source game, built primarily in Unity.
